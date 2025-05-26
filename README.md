@@ -4,6 +4,6 @@
 
 Engineizer is a fully responsive seo agency website, <br />Responsive for all devices, built using HTML, CSS, and JavaScript.
 
-<a href="https://codewithsadee.github.io/sceo/"><strong>➥ Live Demo</strong></a>
+<a href="https://hashimmuhaned.github.io/Engineizer/"><strong>➥ Live Demo</strong></a>
 
 </div>
